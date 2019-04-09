@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<wd:Report_Data xmlns:wd="urn:com.workday.report/MG_Internal_jobs_from_Workday_to_Intranet_and_Internet">
+   <wd:Report_Entry>
+      <wd:jobRequisitionId>R0000008</wd:jobRequisitionId>
+      <wd:Job_Posting_Title>HR Specialist</wd:Job_Posting_Title>
+      <wd:Job_Description>&lt;p>&lt;b>Job description&lt;/b>&lt;/p>&lt;p>&lt;/p>&lt;p>We are looking for xxxxxxxxx xxxxxxxxxx. The position will be located in “city”, “country”.&lt;/p>&lt;p>&lt;/p>&lt;p>&lt;b>Key responsibilities:&lt;/b>&lt;/p>&lt;ul>&lt;li>Please give the details here&lt;/li>&lt;/ul>&lt;p>&lt;/p>&lt;p>Prerequisites&lt;br>Candidate experience and competence expectations are:&lt;/p>&lt;ul>&lt;li>Please give the details here&lt;/li>&lt;/ul>&lt;p>&lt;/p>&lt;p>&lt;b>More information&lt;/b>&lt;/p>&lt;p>We offer:&lt;/p>&lt;ul>&lt;li>Please give the details here&lt;/li>&lt;/ul>&lt;p>&lt;/p>&lt;p>For further information please contact “First Name Last Name”, “Phone number” &amp;nbsp;“and “Time, when the person can be contacted”.&lt;/p>&lt;p>&lt;/p>&lt;p>&lt;b>Sending your application&lt;/b>&lt;/p>&lt;p>&lt;br>Interested applicants should apply by sending their applications by date.month.year.&lt;/p></wd:Job_Description>
+      <wd:Job_Requisition_Primary_Location>Mänttä</wd:Job_Requisition_Primary_Location>
+      <wd:Country>Finland</wd:Country>
+      <wd:Company>Metsä Group Others</wd:Company>
+      <wd:Is_Evergreen>0</wd:Is_Evergreen>
+      <wd:Job_Posting_Details_group>
+         <wd:startDate>2019-03-27</wd:startDate>
+         <wd:endDate>2019-04-04</wd:endDate>
+         <wd:externalPath>https://metsagroup4.wd3.myworkdayjobs-impl.com/MetsaGroup_Careers/job/Mntt/HR-Specialist_R0000008-1</wd:externalPath>
+      </wd:Job_Posting_Details_group>
+      <wd:Job_Posting_Details_group>
+         <wd:startDate>2019-04-04</wd:startDate>
+         <wd:endDate>2019-04-25</wd:endDate>
+         <wd:externalPath>https://metsagroup4.wd3.myworkdayjobs-impl.com/MetsaGroup_Careers/job/Mntt/HR-Specialist_R0000008-1</wd:externalPath>
+      </wd:Job_Posting_Details_group>
+   </wd:Report_Entry>
+   <wd:Report_Entry>
+      <wd:jobRequisitionId>R0000009</wd:jobRequisitionId>
+      <wd:Job_Posting_Title>Kesätyöt 2019</wd:Job_Posting_Title>
+      <wd:Job_Description>&lt;p>Kesätyöt 2019&lt;/p>&lt;p>&lt;/p>&lt;p>internal&lt;/p>&lt;p>&lt;/p>&lt;p>We are looking for xxxxxxxxx xxxxxxxxxx. The position will be located in “city”, “country”.&lt;/p>&lt;p>&lt;/p>&lt;p>&lt;b>Key responsibilities:&lt;/b>&lt;/p>&lt;ul>&lt;li>Please give the details here&lt;/li>&lt;/ul>&lt;p>&lt;/p>&lt;p>Prerequisites&lt;br>Candidate experience and competence expectations are:&lt;/p>&lt;ul>&lt;li>Please give the details here&lt;/li>&lt;/ul>&lt;p>&lt;/p>&lt;p>&lt;b>More information&lt;/b>&lt;/p>&lt;p>We offer:&lt;/p>&lt;ul>&lt;li>Please give the details here&lt;/li>&lt;/ul>&lt;p>&lt;/p>&lt;p>For further information please contact “First Name Last Name”, “Phone number” &amp;nbsp;“and “Time, when the person can be contacted”.&lt;/p>&lt;p>&lt;/p>&lt;p>&lt;b>Sending your application&lt;/b>&lt;/p>&lt;p>&lt;br>Interested applicants should apply by sending their applications by date.month.year.&lt;/p></wd:Job_Description>
+      <wd:Is_Evergreen>1</wd:Is_Evergreen>
+      <wd:Job_Posting_Details_group>
+         <wd:startDate>2019-03-27</wd:startDate>
+         <wd:endDate>2019-04-10</wd:endDate>
+         <wd:externalPath>https://metsagroup4.wd3.myworkdayjobs-impl.com/MetsaGroup_Careers/job/Kestyt-2019_R0000009-1</wd:externalPath>
+      </wd:Job_Posting_Details_group>
+   </wd:Report_Entry>
+   <wd:Report_Entry>
+      <wd:jobRequisitionId>R0000010</wd:jobRequisitionId>
+      <wd:Job_Posting_Title>Ohjausvastaava, tehdas</wd:Job_Posting_Title>
+      <wd:Job_Description>&lt;p>&lt;b>Job description&lt;/b>&lt;/p>&lt;p>&lt;/p>&lt;p>We are looking for xxxxxxxxx xxxxxxxxxx. The position will be located in “city”, “country”.&lt;/p>&lt;p>&lt;/p>&lt;p>&lt;b>Key responsibilities:&lt;/b>&lt;/p>&lt;ul>&lt;li>Please give the details here&lt;/li>&lt;/ul>&lt;p>&lt;/p>&lt;p>Prerequisites&lt;br>Candidate experience and competence expectations are:&lt;/p>&lt;ul>&lt;li>Please give the details here&lt;/li>&lt;/ul>&lt;p>&lt;/p>&lt;p>&lt;b>More information&lt;/b>&lt;/p>&lt;p>We offer:&lt;/p>&lt;ul>&lt;li>Please give the details here&lt;/li>&lt;/ul>&lt;p>&lt;/p>&lt;p>For further information please contact “First Name Last Name”, “Phone number” &amp;nbsp;“and “Time, when the person can be contacted”.&lt;/p>&lt;p>&lt;/p>&lt;p>&lt;b>Sending your application&lt;/b>&lt;/p>&lt;p>&lt;br>Interested applicants should apply by sending their applications by date.month.year.&lt;/p></wd:Job_Description>
+      <wd:Job_Requisition_Primary_Location>Joutseno, Metsä Fibre</wd:Job_Requisition_Primary_Location>
+      <wd:Country>Finland</wd:Country>
+      <wd:Company>Metsä Fibre</wd:Company>
+      <wd:Is_Evergreen>0</wd:Is_Evergreen>
+      <wd:Job_Posting_Details_group>
+         <wd:startDate>2019-03-28</wd:startDate>
+         <wd:endDate>2019-04-15</wd:endDate>
+         <wd:externalPath>https://metsagroup4.wd3.myworkdayjobs-impl.com/MetsaGroup_Careers/job/Joutseno-Mets-Fibre/Ohjausvastaava--tehdas_R0000010</wd:externalPath>
+      </wd:Job_Posting_Details_group>
+   </wd:Report_Entry>
+   <wd:Report_Entry>
+      <wd:jobRequisitionId>R0000011</wd:jobRequisitionId>
+      <wd:Job_Posting_Title>Kunnossapitoprosessinhoitaja</wd:Job_Posting_Title>
+      <wd:Job_Description>&lt;p>&lt;b>Job description&lt;/b>&lt;/p>&lt;p>&lt;/p>&lt;p>internal 14.4.&lt;/p>&lt;p>&lt;/p>&lt;p>We are looking for xxxxxxxxx xxxxxxxxxx. The position will be located in “city”, “country”.&lt;/p>&lt;p>&lt;/p>&lt;p>&lt;b>Key responsibilities:&lt;/b>&lt;/p>&lt;ul>&lt;li>Please give the details here&lt;/li>&lt;/ul>&lt;p>&lt;/p>&lt;p>Prerequisites&lt;br>Candidate experience and competence expectations are:&lt;/p>&lt;ul>&lt;li>Please give the details here&lt;/li>&lt;/ul>&lt;p>&lt;/p>&lt;p>&lt;b>More information&lt;/b>&lt;/p>&lt;p>We offer:&lt;/p>&lt;ul>&lt;li>Please give the details here&lt;/li>&lt;/ul>&lt;p>&lt;/p>&lt;p>For further information please contact “First Name Last Name”, “Phone number” &amp;nbsp;“and “Time, when the person can be contacted”.&lt;/p>&lt;p>&lt;/p>&lt;p>&lt;b>Sending your application&lt;/b>&lt;/p>&lt;p>&lt;br>Interested applicants should apply by sending their applications by date.month.year.&lt;/p></wd:Job_Description>
+      <wd:Job_Requisition_Primary_Location>Tampere</wd:Job_Requisition_Primary_Location>
+      <wd:Country>Finland</wd:Country>
+      <wd:Company>Metsä Board</wd:Company>
+      <wd:Is_Evergreen>0</wd:Is_Evergreen>
+      <wd:Job_Posting_Details_group>
+         <wd:startDate>2019-03-28</wd:startDate>
+         <wd:endDate>2019-04-14</wd:endDate>
+         <wd:externalPath>https://metsagroup4.wd3.myworkdayjobs-impl.com/MetsaGroup_Careers/job/Tampere/Kunnossapitoprosessinhoitaja_R0000011-1</wd:externalPath>
+      </wd:Job_Posting_Details_group>
+   </wd:Report_Entry>
+</wd:Report_Data>
